@@ -20,4 +20,4 @@ var checkDead = setInterval (function(){
     block.style.display = "none";
     alert(" Hai perso! ")
    }
-},10);
+});
