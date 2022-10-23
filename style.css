@@ -16,6 +16,9 @@
     position: relative;
     top: 150px;
 }
+.animate{
+    animation: jump 500ms infinite;
+}
 @keyframes jump {
     0%{top: 150px;}
     30%{top: 100px;}
