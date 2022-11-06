@@ -21,3 +21,7 @@ var checkDead = setInterval (function(){
     alert(" Hai perso! ")
    }
 });
+
+function lol(){
+    
+}
